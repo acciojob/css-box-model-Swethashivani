@@ -1,14 +1,13 @@
 
 /* Your CSS Code here. 
 
- div{
-    width: 300px;
-	text-align: center;
-    padding: 50px lightblue;
-    background-color: lightblue;
-    border: 15px solid blue;
-    margin: 20px;
-  }
+div {
+  width: 300px;
+  background-color: rgb(173, 216, 230);
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
   
     
     
